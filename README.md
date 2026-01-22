@@ -1,4 +1,4 @@
-**Technical Details:** /n
+**Technical Details:** \n
 Language: R Programming /n
 Environment: RStudio /n
 Libraries used: tidyverse, lubridate, ggplot2, dplyr./n/n
