@@ -14,4 +14,4 @@ Ensure the OnlineRetail.csv dataset is placed in the data/ directory (note: this
 
 Open the notebooks/Week1.Rmd file in RStudio.
 
-Click the "Knit" button at the top of the editor to render the notebook into HTML or PDF format.
+Click the "Knit" button at the top of the editor to render the notebook into HTML or word format, add boarder to the word document and convert to PDF.
