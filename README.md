@@ -1,7 +1,7 @@
-**Technical Details:** \n
-Language: R Programming /n
-Environment: RStudio /n
-Libraries used: tidyverse, lubridate, ggplot2, dplyr./n/n
+**Technical Details:** 
+Language: R Programming 
+Environment: RStudio 
+Libraries used: tidyverse, lubridate, ggplot2, dplyr.
 
 **How to Run or Render:**
 To reproduce the analysis:
