@@ -1,3 +1,6 @@
+Notebooks and outputs belongs to week1 submissions.
+Week3 folder belogs to week3 submissions.
+
 **Technical Details:** 
 
 Language: R Programming 
