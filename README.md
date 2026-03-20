@@ -4,6 +4,10 @@
 
 • Week5 folder belogs to week5 submissions.
 
+• Week7 folder belogs to week7 submissions.
+
+• Week8 folder belogs to week8 submissions.
+
 **Technical Details:** 
 
 Language: R Programming 
